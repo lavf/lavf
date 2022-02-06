@@ -19,9 +19,6 @@
   <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white>
  </p>
 
-<p align="center">
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=lavf&layout=compact)](https://github.com/lavf>
-   </p>
 
 🔭 I’m currently working on
 - QtWidget-App for Android in IoT industry
