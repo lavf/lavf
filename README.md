@@ -39,6 +39,8 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lavf&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="lavf's GitHub Stats" />
 </a>
 
+[![Visits Badge](https://badges.pufler.dev/visits/lavf/lavf)](https:lavf.dev)
+
 -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/lavf/lavf)](https:lavf.dev)
+
