@@ -30,20 +30,21 @@
 - C++
 
 
-<p align="center">
   <a href="https://github.com/lavf">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lavf&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="lavf's GitHub Stats" />
   </a>
-</p>
 
-<!--
+
+
 
 <a href="https://github.com/lavf">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavf&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<!--
 
-
+<p align="center">
+</p>
 [![Visits Badge](https://badges.pufler.dev/visits/lavf/lavf)](https:lavf.dev)
 
 -->
