@@ -28,7 +28,7 @@
  &nbsp;
 
 🔭 I’m currently working on
-- QtWidget-App for Android in IoT industry
+- Widgets-based App for Android in IoT industry
 - UX Figma Prototypes
 
 🌱 I’m currently learning
