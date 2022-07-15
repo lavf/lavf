@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋, I'm Leticia</h3>
 
-<h5 align="center">I'm an aspiring Software Developer</h5>
+<h5 align="center">Software Developer</h5>
 
 &nbsp;
 
@@ -28,9 +28,16 @@
  &nbsp;
 
 🔭 I’m currently working on
-- Widgets-based App for Android in IoT industry
-- UX Figma Prototypes
-
+- Qt Project
+  - <a href="https://codereview.qt-project.org/c/qt/qtdeclarative/+/419348">QQmlJS::Dom: Use std::make_shared</a>
+  - <a href="https://codereview.qt-project.org/c/qt/qtdeclarative/+/414083">UrlObject: Add colon after scheme</a>
+  - <a href="https://codereview.qt-project.org/c/qt/qtdeclarative/+/421805">Port code away from QML_DECLARE_TYPEINFO</a>
+  - CMake: Use new CMake API in QML examples:
+    - <a href="https://codereview.qt-project.org/c/qt/qtcharts/+/416730">qt charts</a>
+    - <a href="https://codereview.qt-project.org/c/qt/qtdoc/+/417963">qt doc</a>
+    - <a href="https://codereview.qt-project.org/c/qt/qtmultimedia/+/417989">qt multimedia</a>
+    - <a href="https://codereview.qt-project.org/c/qt/qtdeclarative/+/418610">qt declarative</a>
+ 
 🌱 I’m currently learning
 - CMake
 - C++
@@ -59,5 +66,3 @@
 
 -->
 
-https://codereview.qt-project.org/c/qt/qtdeclarative/+/419348
-https://codereview.qt-project.org/c/qt/qtdeclarative/+/414083
