@@ -32,8 +32,7 @@
 - UX Figma Prototypes
 
 🌱 I’m currently learning
-- IT-related topics for final exam
-- SQL
+- CMake
 - C++
 
 &nbsp;
@@ -60,4 +59,5 @@
 
 -->
 
-
+https://codereview.qt-project.org/c/qt/qtdeclarative/+/419348
+https://codereview.qt-project.org/c/qt/qtdeclarative/+/414083
