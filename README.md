@@ -28,7 +28,12 @@
  &nbsp;
 
 🔭 I’m currently working on
-- Qt Project
+- Personal Blog (Migration)
+
+🌱 I’m currently learning
+- C++
+
+Qt Project
   - <a href="https://codereview.qt-project.org/c/qt/qtdeclarative/+/419348">QQmlJS::Dom: Use std::make_shared</a>
   - <a href="https://codereview.qt-project.org/c/qt/qtdeclarative/+/414083">UrlObject: Add colon after scheme</a>
   - <a href="https://codereview.qt-project.org/c/qt/qtdeclarative/+/421805">Port code away from QML_DECLARE_TYPEINFO</a>
@@ -37,10 +42,6 @@
     - <a href="https://codereview.qt-project.org/c/qt/qtdoc/+/417963">qt doc</a>
     - <a href="https://codereview.qt-project.org/c/qt/qtmultimedia/+/417989">qt multimedia</a>
     - <a href="https://codereview.qt-project.org/c/qt/qtdeclarative/+/418610">qt declarative</a>
- 
-🌱 I’m currently learning
-- CMake
-- C++
 
 &nbsp;
 
