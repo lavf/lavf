@@ -28,7 +28,7 @@
  &nbsp;
 
 🔭 I’m currently working on
-- Personal Blog (Migration)
+- Personal Blog (Data Migration)
 
 🌱 I’m currently learning
 - C++
