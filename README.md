@@ -31,12 +31,6 @@
  
  &nbsp;
 
-🔭 I’m currently working on
-- Personal Blog (Data Migration)
-
-🌱 I’m currently learning
-- C++
-
 Qt Project
   - <a href="https://codereview.qt-project.org/c/qt/qtdeclarative/+/419348">QQmlJS::Dom: Use std::make_shared</a>
   - <a href="https://codereview.qt-project.org/c/qt/qtdeclarative/+/414083">UrlObject: Add colon after scheme</a>
